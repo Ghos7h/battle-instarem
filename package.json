@@ -1,0 +1,46 @@
+{
+  "name": "freelance",
+  "version": "1.0.0",
+  "description": "A project enter a number and get a response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghos7h/freeLance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghos7h/freeLance/issues"
+  },
+  "homepage": "https://github.com/Ghos7h/freeLance#readme",
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "bson": "^2.0.6",
+    "content-disposition": "^0.5.2",
+    "cookie-signature": "^1.1.0",
+    "destroy": "^1.0.4",
+    "etag": "^1.8.1",
+    "finalhandler": "^1.1.1",
+    "fresh": "^0.5.2",
+    "kareem": "^2.0.7",
+    "lodash.get": "^4.4.2",
+    "merge-descriptors": "^1.0.1",
+    "methods": "^1.1.2",
+    "mongoose-legacy-pluralize": "^1.0.2",
+    "morgan": "^1.9.0",
+    "mpath": "^0.4.1",
+    "mquery": "^3.0.0",
+    "path-to-regexp": "^2.2.1",
+    "proxy-addr": "^2.0.3",
+    "range-parser": "^1.2.0",
+    "resolve-from": "^4.0.0",
+    "socket.io": "^2.1.0",
+    "utils-merge": "^1.0.1",
+    "vary": "^1.1.2"
+  }
+}
